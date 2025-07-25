@@ -1,8 +1,5 @@
-package ru.lamg.lamgAPI
+package justx.lamg.huys
 
-import ru.lamg.lamgAPI.events.*
-
-class Main : JavaPlugin() {
-    override fun onEnable() {
-
+fun main() {
+  println("иди нахуй")
 }
